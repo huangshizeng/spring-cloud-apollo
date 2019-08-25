@@ -1,0 +1,8 @@
+apollo:
+  bootstrap:
+    enabled: true
+    namespaces: application
+  meta: http://localhost:8080
+
+app:
+  id: 123456
